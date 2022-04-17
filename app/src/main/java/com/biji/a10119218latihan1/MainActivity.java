@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
+//17/04/22, 10119218, Joyson Sitorus, IF6
 public class MainActivity extends AppCompatActivity {
 
     @Override
