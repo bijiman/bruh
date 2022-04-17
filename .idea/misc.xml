@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AAAAAAAAAAAAAAAAAAAAAAAABARU/SMT_6/AKB/10119218Latihan1/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1735" />
+        <entry key="..\:/AAAAAAAAAAAAAAAAAAAAAAAABARU/SMT_6/AKB/10119218Latihan1/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1735" />
+        <entry key="..\:/AAAAAAAAAAAAAAAAAAAAAAAABARU/SMT_6/AKB/10119218Latihan1/app/src/main/res/drawable/round008444.xml" value="0.1255" />
+        <entry key="..\:/AAAAAAAAAAAAAAAAAAAAAAAABARU/SMT_6/AKB/10119218Latihan1/app/src/main/res/drawable/round069550.xml" value="0.1255" />
+        <entry key="..\:/AAAAAAAAAAAAAAAAAAAAAAAABARU/SMT_6/AKB/10119218Latihan1/app/src/main/res/drawable/round16a75c.xml" value="0.1255" />
+        <entry key="..\:/AAAAAAAAAAAAAAAAAAAAAAAABARU/SMT_6/AKB/10119218Latihan1/app/src/main/res/drawable/round1fb767.xml" value="0.1255" />
+        <entry key="..\:/AAAAAAAAAAAAAAAAAAAAAAAABARU/SMT_6/AKB/10119218Latihan1/app/src/main/res/drawable/round70cd94.xml" value="0.1375" />
+        <entry key="..\:/AAAAAAAAAAAAAAAAAAAAAAAABARU/SMT_6/AKB/10119218Latihan1/app/src/main/res/drawable/round9bdbb3.xml" value="0.1255" />
+        <entry key="..\:/AAAAAAAAAAAAAAAAAAAAAAAABARU/SMT_6/AKB/10119218Latihan1/app/src/main/res/drawable/round_outline.xml" value="0.1375" />
+        <entry key="..\:/AAAAAAAAAAAAAAAAAAAAAAAABARU/SMT_6/AKB/10119218Latihan1/app/src/main/res/drawable/round_outline1.xml" value="0.1375" />
+        <entry key="..\:/AAAAAAAAAAAAAAAAAAAAAAAABARU/SMT_6/AKB/10119218Latihan1/app/src/main/res/drawable/roundc3e9d0.xml" value="0.1255" />
+        <entry key="..\:/AAAAAAAAAAAAAAAAAAAAAAAABARU/SMT_6/AKB/10119218Latihan1/app/src/main/res/drawable/some_id.xml" value="0.1375" />
+        <entry key="..\:/AAAAAAAAAAAAAAAAAAAAAAAABARU/SMT_6/AKB/10119218Latihan1/app/src/main/res/drawable/some_id1.xml" value="0.1375" />
+        <entry key="..\:/AAAAAAAAAAAAAAAAAAAAAAAABARU/SMT_6/AKB/10119218Latihan1/app/src/main/res/drawable/some_id2.xml" value="0.10400000000000001" />
+        <entry key="..\:/AAAAAAAAAAAAAAAAAAAAAAAABARU/SMT_6/AKB/10119218Latihan1/app/src/main/res/drawable/some_id3.xml" value="0.1375" />
+        <entry key="..\:/AAAAAAAAAAAAAAAAAAAAAAAABARU/SMT_6/AKB/10119218Latihan1/app/src/main/res/layout/activity_main.xml" value="0.20618556701030927" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
